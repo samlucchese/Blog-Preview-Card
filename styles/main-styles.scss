@@ -84,10 +84,13 @@ $white: #ffffff;
 
 body{
   background: $yellow;
+  justify-content: center;
   
+  main{
+    margin: auto;
+  }
   .card-container{
     max-width: 384px;
-    margin: auto;
     padding: 24px;
     background: white;
     border-radius: 20px;

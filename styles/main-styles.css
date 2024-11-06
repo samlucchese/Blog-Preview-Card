@@ -57,10 +57,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 body {
   background: #F4D04E;
+  justify-content: center;
+}
+body main {
+  margin: auto;
 }
 body .card-container {
   max-width: 384px;
-  margin: auto;
   padding: 24px;
   background: white;
   border-radius: 20px;

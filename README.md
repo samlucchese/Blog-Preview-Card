@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-with-hover-state-H5t9h_9EEp](https://www.frontendmentor.io/solutions/blog-preview-card-with-hover-state-H5t9h_9EEp)
 - Live Site URL: [https://samlucchese.github.io/Blog-Preview-Card/](https://samlucchese.github.io/Blog-Preview-Card/)
 
 ## My process
